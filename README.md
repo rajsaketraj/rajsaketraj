@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajsaketraj
-- 👀 I’m interested in Learning and exploring the world every single day
+- 👀 I’m interested in Learning new skills and exploring the world
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on various kinds of projects which will help me learn more
 <!-- - 📫 How to reach me
